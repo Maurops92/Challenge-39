@@ -1,0 +1,14 @@
+.NavBar{
+    position: fixed;
+    background-color: rgb(0, 255, 42);
+    width: 100vw;
+    padding: 7px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bottones{
+    width: 30vw;
+    display: flex;
+    justify-content: space-evenly;
+}

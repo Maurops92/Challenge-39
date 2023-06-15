@@ -1,0 +1,8 @@
+.SearchNavBar{
+    border: 3px solid rgb(172, 19, 19);
+    border-radius: 7px;
+    width: 20vw;
+    height: 80%;
+    margin: 3px;
+    padding: 3px;
+}
